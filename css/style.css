@@ -171,3 +171,9 @@ img {
 .widget-curso__info {
     font-size: 2rem;
 }
+
+.footer {
+    background-color: var(--negro);
+    padding-bottom: 3rem;
+    margin-top: 4rem;
+}
